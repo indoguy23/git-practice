@@ -16,3 +16,7 @@ function isAbove18() {
 }
 
 console.log("new feature added")
+
+function height() {
+    console.log('A new height of success')
+}
