@@ -14,3 +14,5 @@ function isAbove18() {
     return age >= 18
 >>>>>>> parent of 4fd433e (Remove 18 function)
 }
+
+console.log("new feature added")
