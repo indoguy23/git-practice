@@ -25,4 +25,7 @@ function height() {
     console.log("This is C")
     console.log("This is D")
     console.log("This is E")
+    
+    console.log("This is F")
+
 }
